@@ -1,0 +1,13 @@
+# Packages imported by the thesis code (2019; versions were not recorded).
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+patsy
+hdf5storage
+grouplasso
+tensorflow
+keras
+matplotlib
+plotly
